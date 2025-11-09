@@ -17,15 +17,21 @@ body {
     height:200px;
 }
 
-.red {
-    background:#FF0000;
+.yellow {
+    background:#FDB913;
     border-left: 2px solid black;
     border-right: 2px solid black;
     border-top: 2px solid black;
 }
 
-.white {
-    background:#FFFFFF;
+.green {
+    background:#006A44;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.red {
+    background:#C1272D;
     border-left: 2px solid black;
     border-right: 2px solid black;
     border-bottom: 2px solid black;
