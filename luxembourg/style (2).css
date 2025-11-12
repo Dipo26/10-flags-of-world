@@ -14,9 +14,13 @@ a {
     margin:auto;
 }
 
+body {
+    width:100%;
+}
+
 .stripe {
     width:100%;
-    height:166.666666667;
+    height:166.666666667px;
     
 }
 
